@@ -3,3 +3,5 @@ Rencanaku Kedepannya:
 -Mencari Kerja
 -Setelah dapat kerja, mempelajar lagi tentang Backend developer
 -Mempelajari AI
+-Membuat Robot AI
+-Membuat mesin pembunuh(robot AI)
