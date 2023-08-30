@@ -4,3 +4,4 @@
  2.packing baju
 -Jam 14.30 Belajar git & github lagi ketika selesai bekerja
 -Mengantar baju pelanggan di waktu sore
+-Menjemput baju pelanggan
